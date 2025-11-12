@@ -1,3 +1,5 @@
-06e9414 (HEAD -> main, origin/main, origin/HEAD) finish Task 1.1.
+e3d1aa3 finish Task 2.1.
+ccbc001 finish Task 1.2.
+06e9414 finish Task 1.1.
 9674d80 finish Task 1.1.
 b7b0a1f Initial commit
