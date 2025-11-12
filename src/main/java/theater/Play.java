@@ -21,5 +21,5 @@ public class Play {
 
     public String getType() {
         return type;
-        }
+    }
 }
