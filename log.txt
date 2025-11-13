@@ -1,3 +1,6 @@
+805b40b Task 2.3: Extract USD formatting helper method
+4c98c8d Task 2.2: Extracted volume credits calculation into getVolumeCredits method
+6881b92 Task 2.2: Extracted volume credits calculation into getVolumeCredits method
 56f0340 Task 2.2: Extracted volume credits calculation into getVolumeCredits method
 40a74cb Task 2.1: Completed extraction of switch statement
 e3d1aa3 finish Task 2.1.
