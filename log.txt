@@ -1,3 +1,4 @@
+5fd1fcc Task 2.3: Extract USD formatting helper method
 805b40b Task 2.3: Extract USD formatting helper method
 4c98c8d Task 2.2: Extracted volume credits calculation into getVolumeCredits method
 6881b92 Task 2.2: Extracted volume credits calculation into getVolumeCredits method
