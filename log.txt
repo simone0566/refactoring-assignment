@@ -1,3 +1,5 @@
+56f0340 Task 2.2: Extracted volume credits calculation into getVolumeCredits method
+40a74cb Task 2.1: Completed extraction of switch statement
 e3d1aa3 finish Task 2.1.
 ccbc001 finish Task 1.2.
 06e9414 finish Task 1.1.
